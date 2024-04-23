@@ -3,4 +3,9 @@ T.O.P Recipe project
 
 
 Skills Learned: 
-    
+
+How to start a project
+Html Structure
+Sourcing images
+Creating links
+Version Control    
